@@ -6,4 +6,6 @@ ChatFi aims to target the huge mobile internet market that has yet to be develop
 
 ![](https://4049750602-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FoNao87kwTCy0qMwMEdNe%2Fuploads%2FrUQa7kQzxmBcsWz1U7vw%2FBanner%20B%20(1).png?alt=media&token=7069f1d4-f0e0-45f8-a64a-cd73f45899d9)
 
+## Download
+
 Please DOWNLOAD Android apk from Releases which is localed at right side.
